@@ -6,3 +6,5 @@ languages:
 - script
 exclude:
 - /account-data/.*
+- /docs/.*
+- /web/.*
