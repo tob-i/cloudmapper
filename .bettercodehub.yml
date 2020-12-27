@@ -7,4 +7,3 @@ languages:
 exclude:
 - /account-data/.*
 - /docs/.*
-- /web/.*
